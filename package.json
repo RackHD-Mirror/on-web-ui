@@ -4,7 +4,7 @@
   "description": "RackHD UI",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RackHD/on-web-ui.git"
+    "url": "https://github.com/RackHD-mirror/on-web-ui.git"
   },
   "license": "Apache-2.0",
   "engines": {
